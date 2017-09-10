@@ -1,7 +1,8 @@
 design/
 node_modules
-src
+src/
 index.js
 package.json
 README.md
 webpack.config.js
+.gitignore
