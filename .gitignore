@@ -1,2 +1,7 @@
-dist/
+design/
 node_modules
+src
+index.js
+package.json
+README.md
+webpack.config.js
